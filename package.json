@@ -1,0 +1,30 @@
+{
+  "name": "aurelia-footer-component",
+  "version": "1.0.0",
+  "description": "jspm install aurelia-footer-component=github:jeremygithubuser/aurelia-footer-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jeremygithubuser@github.com/jeremygithubuser/aurelia-footer-component.git"
+  },
+  "author": "jeremy daniel bouvier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremygithubuser/aurelia-footer-component/issues"
+  },
+  "homepage": "https://github.com/jeremygithubuser/aurelia-footer-component#readme",
+  "jspm": {
+    "dependencies": {
+      "aurelia-framework": "npm:aurelia-framework@1.0.2",
+      "bootstrap": "github:twbs/bootstrap@3.3.7"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
