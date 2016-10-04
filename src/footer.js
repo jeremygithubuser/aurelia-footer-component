@@ -3,7 +3,7 @@ import {bindable} from "aurelia-framework";
 export class Footer {
 
   /* start-non-standard */
-  @bindable message = null;
+  @bindable model = null;
   /* end-non-standard */
 
 }
