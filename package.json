@@ -2,7 +2,12 @@
   "name": "aurelia-footer-component",
   "version": "1.0.0",
   "description": "jspm install aurelia-footer-component=github:jeremygithubuser/aurelia-footer-component",
+  "directories": {
+    "lib": "src"
+  },
   "main": "index.js",
+  "format": "es6",
+  "registry": "jspm",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
